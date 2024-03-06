@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.exe.config
+C:\Users\asus\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.exe
+C:\Users\asus\source\repos\ndpodev\ndpodev\bin\Debug\ndpodev.pdb
+C:\Users\asus\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.exe
+C:\Users\asus\source\repos\ndpodev\ndpodev\obj\Debug\ndpodev.pdb

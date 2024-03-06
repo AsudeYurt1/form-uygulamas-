@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\Formodevi\Formodevi\bin\Debug\Formodevi.exe.config
+C:\Users\asus\source\repos\Formodevi\Formodevi\bin\Debug\Formodevi.exe
+C:\Users\asus\source\repos\Formodevi\Formodevi\bin\Debug\Formodevi.pdb
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.Form1.resources
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.Properties.Resources.resources
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.exe
+C:\Users\asus\source\repos\Formodevi\Formodevi\obj\Debug\Formodevi.pdb
